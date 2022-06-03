@@ -554,4 +554,9 @@ footer {
         width: 100%;
         border: none;
     }
+
+    .back-video {
+        width: 50%;
+        border: none;
+    }
 }
