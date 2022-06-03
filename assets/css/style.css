@@ -136,3 +136,16 @@ nav h1 {
     line-height: 22px;
     padding: 10px;
 }
+
+.row {
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.row h3 {
+    font-family: 'Squada One', sans-serif;
+    text-align: center;
+    font-weight: 500;
+    margin: 10px 0;
+}
