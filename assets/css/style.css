@@ -340,6 +340,18 @@ nav h1 {
     border: none;
 }
 
+/* About Page */
+
+.about-header {
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url('../images/victor-freitas-nlZTjUZX2qo-unsplash.jpg');
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
+
 /* footer */
 
 footer {
