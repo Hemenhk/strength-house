@@ -361,6 +361,20 @@ nav h1 {
     flex-direction: column;
 }
 
+.about-us h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+    letter-spacing: 3px;
+}
+
+.about-text {
+    flex-direction: column;
+    width: 80%;
+    align-items: center;
+    text-align: center;
+    margin: 0 auto;
+}
+
 /* footer */
 
 footer {
