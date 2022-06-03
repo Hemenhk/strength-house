@@ -335,6 +335,11 @@ nav h1 {
     margin: 50px 0 50px 0;
 }
 
+.leg-video {
+    width: 50%;
+    border: none;
+}
+
 /* footer */
 
 footer {
