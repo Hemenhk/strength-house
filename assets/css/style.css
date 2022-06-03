@@ -366,6 +366,7 @@ nav .fa-solid {
 /* Back */
 
 .back h1 {
+    font-family: 'Bebas Neue', sans-serif;
     font-size: 75px;
     text-decoration: underline;
     letter-spacing: 2px;
@@ -385,6 +386,7 @@ nav .fa-solid {
 }
 
 .biceps h1 {
+    font-family: 'Bebas Neue', sans-serif;
     font-size: 75px;
     text-decoration: underline;
     letter-spacing: 2px;
