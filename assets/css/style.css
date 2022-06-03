@@ -115,3 +115,24 @@ nav h1 {
     background: #ffdf00;
     transition: 1s;
 }
+
+.reasons {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.reasons h1 {
+    font-size: 36px;
+    font-weight: 600;
+    letter-spacing: 3px;
+}
+
+.reasons p {
+    color: #1c1d1d;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 22px;
+    padding: 10px;
+}
