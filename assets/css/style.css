@@ -149,3 +149,17 @@ nav h1 {
     font-weight: 500;
     margin: 10px 0;
 }
+
+.reasons-columns {
+    flex-basis: 31%;
+    background: #f7eb9c;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    padding: 20px 12px;
+    box-sizing: border-box;
+    transition: 0.5s;
+}
+
+.reasons-columns:hover {
+    box-shadow: 0 0 15px 0 rgba(0, 0, 0, .3);
+}
