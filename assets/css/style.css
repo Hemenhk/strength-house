@@ -115,6 +115,41 @@ nav h1 {
     width: 100%;
 }
 
+/* Legs Nav Links */
+
+.legs-nav-links {
+    flex: 1;
+    text-align: right;
+}
+
+.legs-nav-links ul li {
+    list-style: none;
+    display: inline-block;
+    padding: 8px 12px;
+    position: relative;
+}
+
+.legs-nav-links a {
+    color: #fff;
+    font-family: 'Squada One', sans-serif;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+.legs-nav-links ul li::after {
+    content: '';
+    width: 0%;
+    height: 2px;
+    background: #21B6A8;
+    display: block;
+    margin: auto;
+    transition: 0.5s;
+}
+
+.legs-nav-links ul li:hover::after {
+    width: 100%;
+}
+
 #logo {
     text-decoration: none
 }
