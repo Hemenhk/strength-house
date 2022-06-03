@@ -472,4 +472,16 @@ footer {
     .cover-box h1 {
         font-size: 3rem;
     }
+
+    .nav-links ul li {
+        display: block;
+    }
+
+    .back-nav-links ul li {
+        display: block;
+    }
+
+    .legs-nav-links ul li {
+        display: block;
+    }
 }
