@@ -16,6 +16,7 @@
                 <h1>Strength House</h1>
             </a>
             <div class="legs-nav-links" id="navLinks">
+                <i class="fa-solid fa-xmark" onclick="hideMenu()"></i>
                 <ul>
                     <li><a href="index.html">HOME</a></li>
                     <li><a href="push.html">PUSH</a></li>
@@ -24,6 +25,7 @@
                     <li><a href="about.html">ABOUT US</a></li>
                 </ul>
             </div>
+            <i class="fa-solid fa-bars" onclick="showMenu()"></i>
         </nav>
         <div class="cover-box">
             <h1>Legs</h1>
@@ -91,6 +93,17 @@
     </footer>
     <!-- font awesome script -->
     <script src="https://kit.fontawesome.com/958d0d4858.js" crossorigin="anonymous"></script>
+    <!-- Javascript for toggle menu -->
+    <script>
+        var navLinks = document.getElementById("navLinks")
+
+        function showMenu() {
+            navLinks.style.right = "0";
+        }
+
+        function hideMenu() {
+            navLinks.style.right = "-200px";
+        }
 </body>
 
 </html>
