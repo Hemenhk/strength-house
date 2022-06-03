@@ -77,3 +77,41 @@ nav h1 {
 #logo {
     text-decoration: none
 }
+
+.cover-box {
+    width: 90%;
+    color: #fff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.cover-box h1 {
+    font-size: 65px;
+}
+
+.cover-box p {
+    margin: 10px 0 40px;
+    font-size: 20px;
+    color: #fff;
+}
+
+.hero-button {
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+    border: 1px solid #fff;
+    padding: 10px 30px;
+    font-size: 14px;
+    background: transparent;
+    position: relative;
+    cursor: pointer;
+}
+
+.hero-button:hover {
+    border: 1px solid #ffdf00;
+    background: #ffdf00;
+    transition: 1s;
+}
