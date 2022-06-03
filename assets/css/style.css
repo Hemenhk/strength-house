@@ -276,6 +276,8 @@ nav h1 {
     box-sizing: border-box;
 }
 
+/* Back */
+
 .back h1 {
     font-size: 75px;
     text-decoration: underline;
@@ -284,7 +286,10 @@ nav h1 {
     margin: 50px 0 50px 0;
 }
 
-/* Back */
+.back-video {
+    width: 50%;
+    border: none;
+}
 
 /* Biceps */
 
