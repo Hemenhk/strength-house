@@ -292,10 +292,11 @@ nav .fa-solid {
     letter-spacing: 2px;
     text-align: center;
     margin: 50px 0 50px 0;
+    font-family: 'Bebas Neue', sans-serif;
 }
 
 .stacked-workout h2 {
-    font-family: 'Squada One', sans-serif;
+    font-family: 'Bebas Neue', sans-serif;
     font-size: 30px;
     letter-spacing: 2px;
     text-decoration: underline;
@@ -319,6 +320,7 @@ nav .fa-solid {
 }
 
 .triceps h1 {
+    font-family: 'Bebas Neue', sans-serif;
     font-size: 75px;
     text-decoration: underline;
     letter-spacing: 2px;
