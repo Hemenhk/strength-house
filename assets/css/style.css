@@ -467,3 +467,9 @@ footer {
     padding: 5%;
     color: #fff;
 }
+
+@media screen and (max-width: 700px) {
+    .cover-box h1 {
+        font-size: 3rem;
+    }
+}
