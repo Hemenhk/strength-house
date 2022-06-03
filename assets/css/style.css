@@ -80,6 +80,10 @@ nav h1 {
     width: 100%;
 }
 
+nav .fa-solid {
+    display: none;
+}
+
 /* Back Nav Links */
 
 .pull-nav-links {
