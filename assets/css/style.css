@@ -564,4 +564,8 @@ footer {
         width: 50%;
         border: none;
     }
+
+    .about-us {
+        width: 30%;
+    }
 }
