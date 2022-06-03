@@ -481,7 +481,7 @@ footer {
         display: block;
     }
 
-    .back-nav-links ul li {
+    .pull-nav-links ul li {
         display: block;
     }
 
@@ -501,7 +501,7 @@ footer {
         transition: 1s;
     }
 
-    .back-nav-links {
+    .pull-nav-links {
         position: fixed;
         background: #DC143C;
         height: 100vh;
@@ -537,7 +537,7 @@ footer {
         padding: 30px;
     }
 
-    .back-nav-links ul {
+    .pull-nav-links ul {
         padding: 30px;
     }
 
