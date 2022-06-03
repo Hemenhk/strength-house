@@ -597,10 +597,12 @@ footer {
  
 /* CSS for screens below 300px*/
 
-@media screen and (max-width: 300px) {
+@media screen and (max-width: 320px) {
     .about-us {
         width: 80%;
-        position: relative;
-        top: 20%;
+        font-size: 0.75rem;
     }
+
+
+
 }
