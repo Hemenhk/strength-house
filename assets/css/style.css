@@ -31,7 +31,7 @@ p {
     position: relative;
 }
 
-/* Different Navlinks */
+/* Home, Push, About Nav Links */
 
 nav {
     display: flex;
@@ -66,7 +66,6 @@ nav h1 {
     font-size: 30px;
 }
 
-/* Different Nav Links Colors */
 .nav-links ul li::after {
     content: '';
     width: 0%;
@@ -79,6 +78,27 @@ nav h1 {
 
 .nav-links ul li:hover::after {
     width: 100%;
+}
+
+/* Back Nav Links */
+
+.back-nav-links {
+    flex: 1;
+    text-align: right;
+}
+
+.back-nav-links ul li {
+    list-style: none;
+    display: inline-block;
+    padding: 8px 12px;
+    position: relative;
+}
+
+.back-nav-links a {
+    color: #fff;
+    font-family: 'Squada One', sans-serif;
+    text-decoration: none;
+    font-size: 30px;
 }
 
 .back-nav-links ul li::after {
