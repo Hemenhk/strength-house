@@ -540,4 +540,13 @@ footer {
     .legs-nav-links ul {
         padding: 30px;
     }
+
+    html,
+    body {
+        overflow-x: hidden;
+    }
+
+    .row {
+        flex-direction: column;
+    }
 }
