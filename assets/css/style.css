@@ -82,26 +82,26 @@ nav h1 {
 
 /* Back Nav Links */
 
-.back-nav-links {
+.pull-nav-links {
     flex: 1;
     text-align: right;
 }
 
-.back-nav-links ul li {
+.pull-nav-links ul li {
     list-style: none;
     display: inline-block;
     padding: 8px 12px;
     position: relative;
 }
 
-.back-nav-links a {
+.pull-nav-links a {
     color: #fff;
     font-family: 'Squada One', sans-serif;
     text-decoration: none;
     font-size: 30px;
 }
 
-.back-nav-links ul li::after {
+.pull-nav-links ul li::after {
     content: '';
     width: 0%;
     height: 2px;
@@ -111,7 +111,7 @@ nav h1 {
     transition: 0.5s;
 }
 
-.back-nav-links ul li:hover::after {
+.pull-nav-links ul li:hover::after {
     width: 100%;
 }
 
