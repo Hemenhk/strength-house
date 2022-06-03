@@ -191,6 +191,15 @@ nav h1 {
     margin: 0 auto;
 }
 
+.push-column {
+    flex-basis: 100%;
+    background: #f7eb9c;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    padding: 20px 12px;
+    box-sizing: border-box;
+}
+
 /* Chest */
 
 .chest h1 {
@@ -213,6 +222,7 @@ nav h1 {
     font-family: 'Noto Sans', sans-serif;
     margin: 5px 0 7.5px 0;
 }
+
 
 /* Triceps */
 /* Shoulders */
