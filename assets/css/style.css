@@ -183,6 +183,14 @@ nav h1 {
     position: relative;
 }
 
+.stacked-workout {
+    flex-direction: column;
+    width: 80%;
+    align-items: center;
+    text-align: center;
+    margin: 0 auto;
+}
+
 /* Chest */
 
 
