@@ -31,6 +31,8 @@ p {
     position: relative;
 }
 
+/* Different Navlinks */
+
 nav {
     display: flex;
     padding: 2% 6%;
@@ -64,6 +66,7 @@ nav h1 {
     font-size: 30px;
 }
 
+/* Different Nav Links Colors */
 .nav-links ul li::after {
     content: '';
     width: 0%;
@@ -75,6 +78,20 @@ nav h1 {
 }
 
 .nav-links ul li:hover::after {
+    width: 100%;
+}
+
+.back-nav-links ul li::after {
+    content: '';
+    width: 0%;
+    height: 2px;
+    background: #DC143C;
+    display: block;
+    margin: auto;
+    transition: 0.5s;
+}
+
+.back-nav-links ul li:hover::after {
     width: 100%;
 }
 
