@@ -16,6 +16,10 @@ h1 {
     font-family: 'Squada One', sans-serif;
 }
 
+h2 {
+    font-family: 'Bebas Neyue', sans-serif;
+}
+
 p {
     font-family: 'Noto Sans', sans-serif;
 }
@@ -228,10 +232,12 @@ nav .fa-solid {
 }
 
 .row h3 {
-    font-family: 'Squada One', sans-serif;
+    font-family: 'Bebas Neue', sans-serif;
     text-align: center;
     font-weight: 500;
     margin: 10px 0;
+    letter-spacing: 2px;
+    text-decoration: underline;
 }
 
 .reasons-columns {
