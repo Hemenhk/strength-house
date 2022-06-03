@@ -229,6 +229,19 @@ nav h1 {
 }
 
 /* Triceps */
+
+.triceps {
+    background-color: #fafafa;
+}
+
+.triceps h1 {
+    font-size: 75px;
+    text-decoration: underline;
+    letter-spacing: 2px;
+    text-align: center;
+    margin: 50px 0 50px 0;
+}
+
 /* Shoulders */
 
 
