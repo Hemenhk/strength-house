@@ -267,6 +267,23 @@ nav h1 {
     position: relative;
 }
 
+.pull-column {
+    flex-basis: 100%;
+    background: #f0adba;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    padding: 20px 12px;
+    box-sizing: border-box;
+}
+
+.back h1 {
+    font-size: 75px;
+    text-decoration: underline;
+    letter-spacing: 2px;
+    text-align: center;
+    margin: 50px 0 50px 0;
+}
+
 /* Back */
 
 /* Biceps */
