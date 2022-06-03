@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Noto+Sans:wght@300&family=Squada+One&display=swap');
 
+/* General Styles*/
+
 * {
     margin: 0;
     padding: 0;
@@ -17,6 +19,8 @@ h1 {
 p {
     font-family: 'Noto Sans', sans-serif;
 }
+
+/* index.html */
 
 .index-header {
     min-height: 100vh;
@@ -78,6 +82,8 @@ nav h1 {
     text-decoration: none
 }
 
+/* Hero - Home page*/
+
 .cover-box {
     width: 90%;
     color: #fff;
@@ -115,6 +121,8 @@ nav h1 {
     background: #ffdf00;
     transition: 1s;
 }
+
+/* Section One Home Page */
 
 .reasons {
     width: 80%;
@@ -163,6 +171,11 @@ nav h1 {
 .reasons-columns:hover {
     box-shadow: 0 0 15px 0 rgba(0, 0, 0, .3);
 }
+
+/* Push Page */
+
+
+
 
 /* footer */
 
