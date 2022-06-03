@@ -163,3 +163,24 @@ nav h1 {
 .reasons-columns:hover {
     box-shadow: 0 0 15px 0 rgba(0, 0, 0, .3);
 }
+
+/* footer */
+
+footer {
+    background-color: #1c1d1d;
+}
+
+.social-icons {
+    text-align: center;
+}
+
+.social-icons>li {
+    display: inline;
+}
+
+.social-icons i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #fff;
+}
