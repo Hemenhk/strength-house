@@ -193,6 +193,13 @@ nav h1 {
 
 /* Chest */
 
+.chest h1 {
+    font-size: 75px;
+    text-decoration: underline;
+    letter-spacing: 2px;
+    text-align: center;
+    margin: 50px 0 50px 0;
+}
 
 
 /* Triceps */
