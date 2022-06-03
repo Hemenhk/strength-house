@@ -201,6 +201,18 @@ nav h1 {
     margin: 50px 0 50px 0;
 }
 
+.stacked-workout h2 {
+    font-family: 'Squada One', sans-serif;
+    font-size: 30px;
+    letter-spacing: 2px;
+    text-decoration: underline;
+    margin: 10px 0 10px 0;
+}
+
+.stacked-workout h3 {
+    font-family: 'Noto Sans', sans-serif;
+    margin: 5px 0 7.5px 0;
+}
 
 /* Triceps */
 /* Shoulders */
