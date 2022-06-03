@@ -316,6 +316,15 @@ nav h1 {
     position: relative;
 }
 
+.legs-column {
+    flex-basis: 100%;
+    background: #9fccc8;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    padding: 20px 12px;
+    box-sizing: border-box;
+}
+
 /* Legs */
 
 /* footer */
