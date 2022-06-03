@@ -88,7 +88,7 @@ nav .fa-solid {
     display: none;
 }
 
-/* Back Nav Links */
+/* Pull Nav Links */
 
 .pull-nav-links {
     flex: 1;
@@ -202,7 +202,7 @@ nav .fa-solid {
     transition: 1s;
 }
 
-/* Section One Home Page */
+/* Home Page */
 
 .reasons {
     width: 80%;
@@ -394,7 +394,7 @@ nav .fa-solid {
     margin: 50px 0 50px 0;
 }
 
-/* Legs Page */ 
+/* Legs Page */
 
 .legs-header {
     min-height: 100vh;
@@ -485,6 +485,8 @@ footer {
     padding: 5%;
     color: #fff;
 }
+
+/* CSS for screens below 850px */
 
 @media screen and (max-width: 850px) {
     .cover-box h1 {
@@ -589,6 +591,16 @@ footer {
 
     .about-us {
         width: 80%;
-        
+
+    }
+}
+ 
+/* CSS for screens below 300px*/
+
+@media screen and (max-width: 300px) {
+    .about-us {
+        width: 80%;
+        position: relative;
+        top: 20%;
     }
 }
