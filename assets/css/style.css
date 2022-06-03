@@ -549,4 +549,9 @@ footer {
     .row {
         flex-direction: column;
     }
+
+    .bench-video {
+        width: 100%;
+        border: none;
+    }
 }
