@@ -421,7 +421,7 @@ nav .fa-solid {
 .about-header {
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4, 9, 30, 0.6), rgba(4, 9, 30, 0.6)), url('../images/victor-freitas-nlZTjUZX2qo-unsplash.jpg');
+    background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url('../images/victor-freitas-nlZTjUZX2qo-unsplash.jpg');
     background-position: center;
     background-size: cover;
     position: relative;
@@ -472,7 +472,7 @@ footer {
     color: #fff;
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 850px) {
     .cover-box h1 {
         font-size: 3rem;
     }
@@ -570,6 +570,7 @@ footer {
     }
 
     .about-us {
-        width: 30%;
+        width: 80%;
+        
     }
 }
