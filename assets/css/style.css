@@ -293,6 +293,18 @@ nav h1 {
 
 /* Biceps */
 
+.biceps {
+    background-color: #fafafa;
+}
+
+.biceps h1 {
+    font-size: 75px;
+    text-decoration: underline;
+    letter-spacing: 2px;
+    text-align: center;
+    margin: 50px 0 50px 0;
+}
+
 /* footer */
 
 footer {
