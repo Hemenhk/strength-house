@@ -33,3 +33,47 @@ nav {
     justify-content: space-between;
     align-items: center;
 }
+
+nav h1 {
+    font-family: 'Squada One', sans-serif;
+    font-size: 250%;
+    letter-spacing: 4px;
+    color: #fff;
+}
+
+.nav-links {
+    flex: 1;
+    text-align: right;
+}
+
+.nav-links ul li {
+    list-style: none;
+    display: inline-block;
+    padding: 8px 12px;
+    position: relative;
+}
+
+.nav-links a {
+    color: #fff;
+    font-family: 'Squada One', sans-serif;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+.nav-links ul li::after {
+    content: '';
+    width: 0%;
+    height: 2px;
+    background: #ffdf00;
+    display: block;
+    margin: auto;
+    transition: 0.5s;
+}
+
+.nav-links ul li:hover::after {
+    width: 100%;
+}
+
+#logo {
+    text-decoration: none
+}
