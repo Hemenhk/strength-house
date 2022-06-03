@@ -215,6 +215,8 @@ nav .fa-solid {
     font-size: 36px;
     font-weight: 600;
     letter-spacing: 3px;
+    font-family: 'Bebas Neue', sans-serif;
+    text-decoration: underline;
 }
 
 .reasons p {
