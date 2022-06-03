@@ -528,4 +528,16 @@ footer {
         font-size: 22px;
         cursor: pointer;
     }
+
+    .nav-links ul {
+        padding: 30px;
+    }
+
+    .back-nav-links ul {
+        padding: 30px;
+    }
+
+    .legs-nav-links ul {
+        padding: 30px;
+    }
 }
