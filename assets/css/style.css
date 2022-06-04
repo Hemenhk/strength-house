@@ -470,20 +470,17 @@ nav .fa-solid {
 footer {
     background-color: #1c1d1d;
     color: #fff;
-    height: auto;
+    height: 150px;
     width: 100vw;
-    padding-top: 50px;
+    padding-top: 30px;
 }
 
-.footer-row {
-    margin-top: 5%;
+.footer-column {
     display: flex;
-}
-
-.reasons-columns {
-    flex-basis: 30%;
-    margin-bottom: 5%;
-    padding: 20px 12px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
 }
 
 .social-icons {
@@ -491,7 +488,8 @@ footer {
 }
 
 .social-icons>li {
-    display: inline;
+    display: inline-flex;
+    margin: 25px 10px 0 10px;
 }
 
 .social-icons i {
