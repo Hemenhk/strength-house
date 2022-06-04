@@ -75,5 +75,11 @@ I chose to give this website a more elegant feel to it, as most fitness websites
 
 # Features
 
-This is a fully responsive website. Headings from h2-h6 are styled using 'Bebas Neue', whilst the h1 is styled with 'Squada One'. This is to differentiat between the hero content and the subsequent sections. 'Noto Sans' has been used for paragraphs, as it is clean and elegant. 
+This is a fully responsive website. Headings from h2-h6 are styled using 'Bebas Neue', whilst the h1 is styled with 'Squada One'. This is to differentiat between the hero content and the subsequent sections. 'Noto Sans' has been used for paragraphs, as it is clean and elegant. The Website is comprised of five pages, provided in the navigation bar: 
 
+## Navigation Bar
+
+The navigation bar on the top right is used to access different pages of the website. The font is the same used for "h1". The hover effect has a distinct color, depending on which page you are, and has a slight delay in it's width, giving each page a sense of uniqueness. When viewed on smaller devices such as tablets and phones, the navigation bar turns into a hamburger menu, to make navigating this website a lot easier. 
+
+
+![Navigation Bar](assets/images/Screenshot%202022-06-04%20at%2021.05.48.jpg)
