@@ -29,7 +29,7 @@ p {
 .index-header {
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4, 9, 30, 0.6), rgba(4, 9, 30, 0.6)), url('../images-2/anastase-maragos-fG0p4Qh_aWI-unsplash-2.jpg');
+    background-image: linear-gradient(rgba(4, 9, 30, 0.6), rgba(4, 9, 30, 0.6)), url('../images/anastase-maragos-fG0p4Qh_aWI-unsplash-2.jpg');
     background-position: center;
     background-size: cover;
     position: relative;
@@ -257,7 +257,7 @@ nav .fa-solid {
 .push-header {
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4, 9, 30, 0.6), rgba(4, 9, 30, 0.6)), url('../images-2/michael-demoya-i2GS_MtW9hM-unsplash.jpg');
+    background-image: linear-gradient(rgba(4, 9, 30, 0.6), rgba(4, 9, 30, 0.6)), url('../images/michael-demoya-i2GS_MtW9hM-unsplash.jpg');
     background-position: center;
     background-size: cover;
     position: relative;
@@ -344,7 +344,7 @@ nav .fa-solid {
 .pull-header {
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url('../images-2/alora-griffiths-E3wehabi_B4-unsplash.jpg');
+    background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url('../images/alora-griffiths-E3wehabi_B4-unsplash.jpg');
     background-position: center;
     background-size: cover;
     position: relative;
@@ -395,7 +395,7 @@ nav .fa-solid {
 .legs-header {
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url('../images-2/sunday-ii-sunday-snM3yEpvklU-unsplash.jpg');
+    background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url('../images/sunday-ii-sunday-snM3yEpvklU-unsplash.jpg');
     background-position: center;
     background-size: cover;
     position: relative;
@@ -431,7 +431,7 @@ nav .fa-solid {
 .about-header {
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url('../images-2/victor-freitas-nlZTjUZX2qo-unsplash.jpg');
+    background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url('../images/victor-freitas-nlZTjUZX2qo-unsplash.jpg');
     background-position: center;
     background-size: cover;
     position: relative;
