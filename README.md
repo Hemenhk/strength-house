@@ -82,4 +82,112 @@ This is a fully responsive website. Headings from h2-h6 are styled using 'Bebas 
 The navigation bar on the top right is used to access different pages of the website. The font is the same used for "h1". The hover effect has a distinct color, depending on which page you are, and has a slight delay in it's width, giving each page a sense of uniqueness. When viewed on smaller devices such as tablets and phones, the navigation bar turns into a hamburger menu, to make navigating this website a lot easier. 
 
 
-![Navigation Bar](assets/images/Screenshot%202022-06-04%20at%2021.05.48.jpg)
+![Navigation Bar](assets/images/thumbnail_Screenshot%202022-06-05%20at%2000.47.35.png)
+
+## Pull Page
+
+This page, similar in structure as Push and Legs, is where I structure and introduce the workout exercises for the user's easy access. 
+
+![Pull Page](assets/images/thumbnail_Screenshot%202022-06-05%20at%2000.48.18.png)
+
+## About Us Page
+
+This is where I've explained in simple design, the reason for Strength House's existence.
+
+![About US](assets/images/thumbnail_Screenshot%202022-06-05%20at%2000.48.24.png)
+
+## Future Features 
+
+In the future I intend to expand upon the number of exercises available, and link videos explaining how to perform each one properly, so that the user also has visual aid. 
+
+## Testing
+
+Throughout the project I have repeatedly tested the validity of the code written and have also tested the performance of the many pages through Google Lighthouse. The website was tested on many different devices and browsers such as Safari, Chrome, iPhone 5, iPhone X, iPhone 12 Pro, iPad and Samsung Galaxy Fold. This was done to ensure optimal responsiveness of the website across different screens. Some issues identified where:
+
+- Some images were not showing. This was fixed when realizing that they were avif images and not jpegs or pngs. 
+- The text in the "About Us" page was bleeding into the footer on smaller screens. This was resolved by reducing the size of the fonts, so that they would not take too much space. 
+- Slow performance on smaller screens. This was due to the image sizes (already compressed) and the use of embedded videos. This cannot be resolved and is an accepted quality of the website.
+
+# Validator Tests
+
+I ran tests of the integrity of the HTML and CSS codes on W3C Validator and performance tests on Google Lighthouse. Provided below are screenshots of these tests.
+
+### W3C HTML
+
+I used W3C validator for HTML and the results are found here [W3C Validator](https://validator.w3.org/nu/#textarea)
+
+![W3C HTML Validator](assets/images/thumbnail_Screenshot%202022-06-05%20at%2001.10.38.png)
+
+### W3C CSS
+
+I also used W3C validator for CSS and the results can be seen here [W3C Validator CSS](https://validator.w3.org/nu/#textarea)
+
+![W3C CSS Validator](assets/images/thumbnail_Screenshot%202022-06-05%20at%2001.11.20.png)
+
+### Google Lighthouse Desktop
+
+![Google Lighthouse Desktop](assets/images/thumbnail_Screenshot%202022-06-05%20at%2001.12.51.png)
+
+### Google Lighthouse Mobile 
+
+![Google Lighthouse Mobile](assets/images/thumbnail_Screenshot%202022-06-05%20at%2001.12.25.png)
+
+
+### Unfixed Bugs
+
+- There are not unfixed bugs in this project.
+
+# Deployment
+
+This project was created using Gitpod, and committed to git and pushed to Github by the use of git commands.
+
+To deploy this project to GitHub Pages from the Github repository, the following steps were taken:
+
+1. Log into Github
+2. Go to repositories and select on "strength-house".
+3. Select "settings" on the menu.
+4. Scroll down to "pages" and select it. 
+5. In the "source" section click on "branch" and select "main".
+6. Click save and wait for the repository to be published.
+7. Click on the link provided to access the finished website.
+
+The live link is found here https://hemenhk.github.io/strength-house/.
+
+### Clone This Project 
+
+- Under repository press "code" and select "clone".
+- Open Git Bash.
+- Change current working directory to the locatin where you wish to have the cloned directory.
+- Type "git clone" and paste the URL which you copied previously.
+- Press "enter" to create a local clone.
+
+
+
+### Access This Project On Local Desktop
+
+- Under repository pres the "code" button next to "add file".
+- Select "download zip".
+- Extract the content onto your desktop.
+- Click on any file to access the pages.
+
+# Credits
+
+## Coding Content
+- Most of the coding was done by myself from knowledge gained throughout the code modules.
+- The layout of the website was inspired by [Shear Revival](https://www.shearrevival.com/), which I found to be clean and user friendly.
+- Instructions on how to implement hover effects on the navigation links and the hamburger menu, as well as how to add hero images through CSS where taken from the great [
+Easy Tutorials](https://www.youtube.com/watch?v=oYRda7UtuhA).
+
+## Media
+
+### Images
+
+All images used on this project were downloaded from [Unsplash](https://unsplash.com/)
+
+### Video content 
+
+Video on Pull page was taken from [Strenth Camp](https://www.youtube.com/watch?v=P-vNNjYQulg&t=6s)
+
+Videos on Push and Legs were taken from Jeff Nippard
+- https://www.youtube.com/watch?v=vcBig73ojpE&t=101s
+- https://www.youtube.com/watch?v=bEv6CCg2BC8
