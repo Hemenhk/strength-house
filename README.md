@@ -175,7 +175,7 @@ The live link is found here https://hemenhk.github.io/strength-house/.
 ## Coding Content
 - Most of the coding was done by myself from knowledge gained throughout the code modules.
 - The layout of the website was inspired by [Shear Revival](https://www.shearrevival.com/), which I found to be clean and user friendly.
-- Instructions on how to implement hover effects on the navigation links and the hamburger menu, as well as how to add hero images through CSS where taken from the great [
+- Instructions on how to implement hover effects on the navigation links and the hamburger menu, click button, as well as how to add hero images through CSS where taken from the great [
 Easy Tutorials](https://www.youtube.com/watch?v=oYRda7UtuhA).
 
 ## Media
